@@ -1,7 +1,7 @@
 # Mall-Customer-by-using-Clustering
 I am using "Mall Customer" dataset from kaggle. This dataset consists of 5 columns. In this, I have performed multiple clustering techniques. Lets first discuss about its pre-processing.
 
-## Pre-processing
+# Pre-processing
 * There is no missing values in dataset.
 * There are no duplicted values.
 * The "Genre" column has categorical data. That's why I have performed one-hot encoding that shows 1 for MALE and 0 for FEMALE.
